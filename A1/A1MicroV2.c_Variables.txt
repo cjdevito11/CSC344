@@ -1,0 +1,1 @@
+['', '#include', 'stdio', 'h', 'stdlib', 'string', 'typedef', 'struct', 'item', 'double', 'price', 'char', 'name', 'int', 'full', 'main', 'shelves', 'slots', 'shelf', 'slot', 'buffer', 'pri', 'printf', 'fgets', 'stdin', 'atoi', 'inventory', 'do', 'if', 'while', 'atof', 'NULL', 'else', 'return']
